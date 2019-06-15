@@ -25,4 +25,4 @@ int killerType, array deathCoords
 Examples
 --------
 
-TODO
+onPlayerDied(1, {127.0, 54.0, 24.0})
